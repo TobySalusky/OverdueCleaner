@@ -18,7 +18,6 @@
   "browser_action": {
     "default_icon": "icon.png"
   },
-  "default_locale": "en",
   "description": "Clean up your screen by dismissing overdue Schoology assignments.",
   "icons": {
     "16": "icon16.png",
