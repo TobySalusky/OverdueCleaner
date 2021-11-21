@@ -1,9 +1,7 @@
 # OverdueCleaner
 **Allows you to dismiss overdue assignments on Schoology**
 
-> Does not currently work on LCPS-managed accounts/devices (namely **chrome books**) due to a lack of permissions.
-> 
-> Does work on Academy thinkpads
+> Does not currently work on strictly school-managed accounts/devices (namely **chrome books**) due to a lack of permissions.
 
 # Usage
 
