@@ -1,36 +1,3 @@
-/*:root {
-    --tabCol: #252525;
-    --grey: #444444;
-    --darkgrey: #282828;
-    --lightgrey: #888888;
-}
-
-.sgy-card {
-    background-color: var(--tabCol) !important;
-    overflow: hidden !important;
-    border-radius: 5% !important;
-}
-
-.sgy-tabbed-navigation li.active {
-    border-bottom: 5px solid orange !important;
-}
-
-tbody {
-    background-color: var(--grey) !important;
-}
-
-.materials-top {
-    background-color: var(--grey) !important;
-}
-
-.content-top-upper {
-    background-color: var(--darkgrey) !important;
-}
-
-.link-btn {
-    background: var(--lightgrey) !important;
-}*/
-
 .overdue-extension-popup {
     position: fixed;
     z-index: 100;
