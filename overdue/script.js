@@ -1,7 +1,7 @@
 
 let refreshRequired = false;
 
-async function func() { // TODO: only remove old overdue
+async function func() {
 	
 	let overdueTab = document.getElementById("overdue-submissions");
 	
