@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Overdue Remover",
-  "version": "0.1.0",
+  "name": "Schoology Overdue Cleaner",
+  "version": "1.0.0",
   "content_scripts": [
     {
       "matches": [
@@ -18,6 +18,14 @@
   "browser_action": {
     "default_icon": "icon.png"
   },
+  "default_locale": "en",
+  "description": "Clean up your screen by dismissing overdue Schoology assignments.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "author": "Toby Salusky",
   "permissions": [
     "storage"
   ]
