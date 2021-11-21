@@ -42,7 +42,7 @@ async function func() { // TODO: only remove old overdue
 							
 							innerH4.appendChild(removeButton);
 							removeButton.style.display = "inline-block";
-							child.addEventListener("click", () => {
+							removeButton.addEventListener("click", () => {
 								
 								const popup = document.createElement('div');
 								popup.className = 'overdue-extension-popup';
